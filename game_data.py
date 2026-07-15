@@ -1,0 +1,152 @@
+data = [
+    {
+        "name": "Virat Kohli",
+        "followers": 272,
+        "description": "Cricketer",
+        "country": "India",
+    },
+    {
+        "name": "Narendra Modi",
+        "followers": 108,
+        "description": "Prime Minister",
+        "country": "India",
+    },
+    {
+        "name": "Shraddha Kapoor",
+        "followers": 95,
+        "description": "Actress",
+        "country": "India",
+    },
+    {
+        "name": "Priyanka Chopra",
+        "followers": 92,
+        "description": "Actress",
+        "country": "India",
+    },
+    {
+        "name": "Alia Bhatt",
+        "followers": 87,
+        "description": "Actress",
+        "country": "India",
+    },
+    {
+        "name": "Katrina Kaif",
+        "followers": 81,
+        "description": "Actress",
+        "country": "India",
+    },
+    {
+        "name": "Deepika Padukone",
+        "followers": 80,
+        "description": "Actress",
+        "country": "India",
+    },
+    {
+        "name": "Anushka Sharma",
+        "followers": 69,
+        "description": "Actress",
+        "country": "India",
+    },
+    {
+        "name": "MS Dhoni",
+        "followers": 50,
+        "description": "Cricketer",
+        "country": "India",
+    },
+    {
+        "name": "Shah Rukh Khan",
+        "followers": 48,
+        "description": "Actor",
+        "country": "India",
+    },
+    {
+        "name": "Rashmika Mandanna",
+        "followers": 45,
+        "description": "Actress",
+        "country": "India",
+    },
+    {
+        "name": "Rohit Sharma",
+        "followers": 44,
+        "description": "Cricketer",
+        "country": "India",
+    },
+    {
+        "name": "Hardik Pandya",
+        "followers": 37,
+        "description": "Cricketer",
+        "country": "India",
+    },
+    {
+        "name": "Samantha Ruth Prabhu",
+        "followers": 37,
+        "description": "Actress",
+        "country": "India",
+    },
+    {
+        "name": "Allu Arjun",
+        "followers": 29,
+        "description": "Actor",
+        "country": "India",
+    },
+    {
+        "name": "Bhuvan Bam",
+        "followers": 21,
+        "description": "YouTuber",
+        "country": "India",
+    },
+    {
+        "name": "KL Rahul",
+        "followers": 21,
+        "description": "Cricketer",
+        "country": "India",
+    },
+    {
+        "name": "CarryMinati",
+        "followers": 20,
+        "description": "YouTuber",
+        "country": "India",
+    },
+    {
+        "name": "Jasprit Bumrah",
+        "followers": 19,
+        "description": "Cricketer",
+        "country": "India",
+    },
+    {
+        "name": "Yash",
+        "followers": 18,
+        "description": "Actor",
+        "country": "India",
+    },
+    {
+        "name": "Ram Charan",
+        "followers": 15,
+        "description": "Actor",
+        "country": "India",
+    },
+    {
+        "name": "Prabhas",
+        "followers": 14,
+        "description": "Actor",
+        "country": "India",
+    },
+    {
+        "name": "Neha Kakkar",
+        "followers": 79,
+        "description": "Singer",
+        "country": "India",
+    },
+    {
+        "name": "Diljit Dosanjh",
+        "followers": 30,
+        "description": "Singer",
+        "country": "India",
+    },
+    {
+        "name": "Arijit Singh",
+        "followers": 12,
+        "description": "Singer",
+        "country": "India"
+    }
+]
